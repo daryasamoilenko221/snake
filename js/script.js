@@ -9,7 +9,7 @@ const config = {    //содержит настройки игры
 	sizeBerry: 16 / 4   //размер ягоды
 }
 
-const snake = {
+const snake = {  //gfhfhgfvj
 	x: 160,  
 	y: 160,  // x и y это координаты
 	dx: config.sizeCell,
